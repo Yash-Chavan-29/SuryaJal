@@ -10,6 +10,16 @@
 
 ---
 
+## 📸 Preview & Live Walkthrough
+
+![SuryaJal Screenshot](./docs/screenshot.png)
+
+![SuryaJal Demo](./docs/demo.gif)
+
+> 🎬 **[Watch Full Demo Video (WebM)](./docs/demo.webm)**
+
+---
+
 ## 🌾 The Core Problem
 Across the Hubballi-Belagavi agricultural corridor in North Karnataka, farmers face a triple crisis:
 1. **Unpredictable Midnight Grid Shifts:** HESCOM supplies 3-phase agricultural power during erratic midnight shifts (11 PM - 5 AM), forcing farmers into dangerous nocturnal field trips.
